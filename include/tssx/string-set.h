@@ -71,4 +71,4 @@ void _ss_resize(StringSet* set);
 
 void _ss_rehash(StringSet* set, Node** old, size_t old_capacity);
 
-#endif /* HASHTABLE_H */
+#endif /* STRING_SET_H */
